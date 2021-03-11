@@ -1,0 +1,20 @@
+header { background-color: aquamarine;
+}
+
+p {
+    background-color: blanchedalmond;
+}
+.img-denis{
+    width: auto;
+}
+
+
+/*
+header {
+    background: url("./Images/DZ_side.JPG");
+    background-size: cover;
+    width: 100px;
+    height: 50vh;
+}
+*/
+
